@@ -1,5 +1,12 @@
 # Run-Jar-On-Mac
-Instruction to create a program to start a jar file
+## Auto Script
+``` Bash
+./AutoMakerScript.sh
+```
+Filepath: Full path to file
+Filename: What you want the file to be called
+
+##Instruction to create a program to start a jar file
 
 1. ) Create Running File
 ``` Bash 
